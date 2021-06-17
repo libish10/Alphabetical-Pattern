@@ -6,7 +6,7 @@ h2
 #container {
     height:1500px;
     width:100%;
-    background-color: lightblue;
+    background-color: lightgray;
     color:red;
 }
 #container #pattern_1 {
